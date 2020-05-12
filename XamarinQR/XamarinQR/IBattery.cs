@@ -22,7 +22,7 @@ namespace XamarinQR
         Other
     }
 
-    public interface IBattery
+    public interface  IBattery
     {
         int RemainingChargePercent { get; }
         BatteryStatus Status { get; }

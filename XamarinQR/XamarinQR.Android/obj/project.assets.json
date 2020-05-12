@@ -1932,24 +1932,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\xiomara\\.nuget\\packages\\": {},
+    "C:\\Users\\lourd\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\xamarin\\tecsup\\XamarinQR\\XamarinQR\\XamarinQR.Android\\XamarinQR.Android.csproj",
+      "projectUniqueName": "C:\\Users\\lourd\\OneDrive\\Documentos\\tecsup-xamarinQR\\XamarinQR\\XamarinQR.Android\\XamarinQR.Android.csproj",
       "projectName": "XamarinQR.Android",
-      "projectPath": "E:\\xamarin\\tecsup\\XamarinQR\\XamarinQR\\XamarinQR.Android\\XamarinQR.Android.csproj",
-      "packagesPath": "C:\\Users\\xiomara\\.nuget\\packages\\",
-      "outputPath": "E:\\xamarin\\tecsup\\XamarinQR\\XamarinQR\\XamarinQR.Android\\obj\\",
+      "projectPath": "C:\\Users\\lourd\\OneDrive\\Documentos\\tecsup-xamarinQR\\XamarinQR\\XamarinQR.Android\\XamarinQR.Android.csproj",
+      "packagesPath": "C:\\Users\\lourd\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lourd\\OneDrive\\Documentos\\tecsup-xamarinQR\\XamarinQR\\XamarinQR.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\xiomara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lourd\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1963,8 +1963,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "E:\\xamarin\\tecsup\\XamarinQR\\XamarinQR\\XamarinQR\\XamarinQR.csproj": {
-              "projectPath": "E:\\xamarin\\tecsup\\XamarinQR\\XamarinQR\\XamarinQR\\XamarinQR.csproj"
+            "C:\\Users\\lourd\\OneDrive\\Documentos\\tecsup-xamarinQR\\XamarinQR\\XamarinQR\\XamarinQR.csproj": {
+              "projectPath": "C:\\Users\\lourd\\OneDrive\\Documentos\\tecsup-xamarinQR\\XamarinQR\\XamarinQR\\XamarinQR.csproj"
             }
           }
         }
